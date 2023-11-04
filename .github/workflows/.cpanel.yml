@@ -1,0 +1,4 @@
+deployments:
+  - destination: public_html/
+    repo: https://github.com/mSaroarDev/crud-test.git
+    branch: main
